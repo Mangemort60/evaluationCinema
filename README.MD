@@ -1,8 +1,8 @@
 # Description du projet
 ## Création et modélisation d'une base de donnée pour un système de réservation de places de cinéma.
 
-- Etape 1 : Modelisation de la base de donné dans un diagram (méthode merise)
-- Etape 2 : Retranscription des lignes de commande dans un fichier .sql utilisant un système de gestion de base de données relationnelles (SGBDR)
+- Etape 1 : Modelisation de la base de données dans un diagram (méthode merise)
+- Etape 2 : Retranscription des lignes de commande dans un fichier [databaseTheater.sql](/databaseTheater.sql) utilisant un système de gestion de base de données relationnelles (SGBDR)
 - Etape 3 : Retranscription du shéma physique en tables alimentées de données factice (utilisation de [Mockaroo](https://www.mockaroo.com/) )
 - Etape 4 : Test des commandes dans [phpMyAdmin](https://www.phpmyadmin.net/)
 
