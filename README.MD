@@ -14,7 +14,7 @@
 
 &nbsp;
 
-# Ligne de commande (powershell) pour exporter entièrement la BDD
+## Ligne de commande (powershell) pour exporter entièrement la BDD
 
 > mysqldump -u [username] [database] > [path/filename.sql] 
 
